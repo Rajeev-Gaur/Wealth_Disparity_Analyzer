@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+.mypy_cache/
+.pytest_cache/
+.coverage
+.coverage.*
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.idea/
+.vscode/
+
+# Output directory
+output/
